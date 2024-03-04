@@ -27,11 +27,5 @@ Customization:
 	Sorting: If you want to sort the files differently, you can adjust the 'key' parameter in the 'sorted' function
 
 
-
-Contribution: 
-	If you find any issues, have suggestions, or want to contribute to the project, feel free to open an issue or submit a pull request.
-
-
-
 License: 
 	This project is licensed under the MIT License - see the LICENSE file for details.
